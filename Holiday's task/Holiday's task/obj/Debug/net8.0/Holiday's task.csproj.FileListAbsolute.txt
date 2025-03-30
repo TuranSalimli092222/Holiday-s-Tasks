@@ -1,0 +1,14 @@
+C:\Users\Turan Salimli\Desktop\VilayetHocaTasklar\Holiday's task\Holiday's task\bin\Debug\net8.0\Holiday's task.exe
+C:\Users\Turan Salimli\Desktop\VilayetHocaTasklar\Holiday's task\Holiday's task\bin\Debug\net8.0\Holiday's task.deps.json
+C:\Users\Turan Salimli\Desktop\VilayetHocaTasklar\Holiday's task\Holiday's task\bin\Debug\net8.0\Holiday's task.runtimeconfig.json
+C:\Users\Turan Salimli\Desktop\VilayetHocaTasklar\Holiday's task\Holiday's task\bin\Debug\net8.0\Holiday's task.dll
+C:\Users\Turan Salimli\Desktop\VilayetHocaTasklar\Holiday's task\Holiday's task\bin\Debug\net8.0\Holiday's task.pdb
+C:\Users\Turan Salimli\Desktop\VilayetHocaTasklar\Holiday's task\Holiday's task\obj\Debug\net8.0\Holiday's task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turan Salimli\Desktop\VilayetHocaTasklar\Holiday's task\Holiday's task\obj\Debug\net8.0\Holiday's task.AssemblyInfoInputs.cache
+C:\Users\Turan Salimli\Desktop\VilayetHocaTasklar\Holiday's task\Holiday's task\obj\Debug\net8.0\Holiday's task.AssemblyInfo.cs
+C:\Users\Turan Salimli\Desktop\VilayetHocaTasklar\Holiday's task\Holiday's task\obj\Debug\net8.0\Holiday's task.csproj.CoreCompileInputs.cache
+C:\Users\Turan Salimli\Desktop\VilayetHocaTasklar\Holiday's task\Holiday's task\obj\Debug\net8.0\Holiday's task.dll
+C:\Users\Turan Salimli\Desktop\VilayetHocaTasklar\Holiday's task\Holiday's task\obj\Debug\net8.0\refint\Holiday's task.dll
+C:\Users\Turan Salimli\Desktop\VilayetHocaTasklar\Holiday's task\Holiday's task\obj\Debug\net8.0\Holiday's task.pdb
+C:\Users\Turan Salimli\Desktop\VilayetHocaTasklar\Holiday's task\Holiday's task\obj\Debug\net8.0\Holiday's task.genruntimeconfig.cache
+C:\Users\Turan Salimli\Desktop\VilayetHocaTasklar\Holiday's task\Holiday's task\obj\Debug\net8.0\ref\Holiday's task.dll
